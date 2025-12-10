@@ -32,23 +32,33 @@ The interface is minimal, fast, and works well on all screen sizes.
 ## Installation & Local Run
 
 1 Clone the repository: https://github.com/qw1se/map.git
+
 2 Open index.html in your browser (double-click or serve via a local web server).
 Note: This is a static project — no backend or build step is required.
 
 ---
 
  GeoTap/
+
 │── index.html
+
 │── script.js
+
 │── style.css
+
 └── README.md
 
 ---
 Technologies Used
+
 HTML
+
 CSS
+
 JavaScript (Vanilla JS)
+
 Leaflet.js
+
 OpenStreetMap (Nominatim API)
 
 
