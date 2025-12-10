@@ -4,14 +4,11 @@
 View the live demo:  
 https://qw1se.github.io/map/
 
-A lightweight interactive map application that displays detailed location information based on where the user clicks. Built with plain HTML, CSS, JavaScript, Leaflet, and OpenStreetMap’s Nominatim API.
+
 
 ---
 
-## Demo
-
-View the live demo:  
-https:
+A lightweight interactive map application that displays detailed location information based on where the user clicks. Built with plain HTML, CSS, JavaScript, Leaflet, and OpenStreetMap’s Nominatim API.
 
 ---
 
