@@ -49,7 +49,7 @@ Note: This is a static project — no backend or build step is required.
 
 └── README.md
 
----
+
 Technologies Used
 
 HTML
@@ -61,6 +61,20 @@ JavaScript (Vanilla JS)
 Leaflet.js
 
 OpenStreetMap (Nominatim API)
+
+
+## Design & Inspiration
+
+Design inspired by the Figma community file: https://www.figma.com/design/lRi9WX6JBxeDnfUHlp1RUr/Interactive-Map-Zoom-and-Scroll--Community---Community-?m=auto&is-community-duplicate=1&fuid=1578262329337168425
+
+
+presentation: https://www.canva.com/design/DAG7IrosBio/382XseXtliz6v_dT317giA/edit
+
+---
+
+## Author
+
+© Tulkiev Alen
 
 
    
