@@ -35,6 +35,7 @@ The interface is minimal, fast, and works well on all screen sizes.
 2 Open index.html in your browser (double-click or serve via a local web server).
 Note: This is a static project — no backend or build step is required.
 
+---
 
  GeoTap/
 │── index.html
@@ -42,17 +43,12 @@ Note: This is a static project — no backend or build step is required.
 │── style.css
 └── README.md
 
-
+---
 Technologies Used
-
 HTML
-
 CSS
-
 JavaScript (Vanilla JS)
-
 Leaflet.js
-
 OpenStreetMap (Nominatim API)
 
 
