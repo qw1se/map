@@ -68,7 +68,7 @@ OpenStreetMap (Nominatim API)
 Design inspired by the Figma community file: https://www.figma.com/design/lRi9WX6JBxeDnfUHlp1RUr/Interactive-Map-Zoom-and-Scroll--Community---Community-?m=auto&is-community-duplicate=1&fuid=1578262329337168425
 
 
-presentation: https://www.canva.com/design/DAG7IrosBio/382XseXtliz6v_dT317giA/edit
+presentation: https://www.canva.com/design/DAG7IrosBio/h8_CzaE2g9-5XAL9AT-Dzg/view?utm_content=DAG7IrosBio&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcf7ca0b10a
 
 ---
 
